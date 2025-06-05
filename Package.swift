@@ -25,8 +25,8 @@ let package = Package(
     ),
     .binaryTarget(
         name: "SauTunnel",
-        url: "https://github.com/saudevteam/sau_tunnel/releases/download/1.0.0/SauTunnel.xcframework.zip",
-        checksum: "e0f4910aaa192236594464f5b79dc3a8722d572bbc91e688a6998831fccf2a21"
+        url: "https://github.com/saudevteam/sau_tunnel/releases/download/2.0.0/SauTunnel.xcframework.zip",
+        checksum: "94821ef9e79c880a74302d872772adfbbb58cc62104254c862c994374297b71f"
     )
   ]
 )
